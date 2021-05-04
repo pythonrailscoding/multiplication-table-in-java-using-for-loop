@@ -1,4 +1,4 @@
-package com.company;
+//package com.company; //--include this when working on IntellJ Idea
 
 import java.util.Scanner;
 
